@@ -33,6 +33,21 @@ LittlerootTown_MapScripts::
 	@ 3: Met Rival
 	@ 4: Received Pokedex
 
+@ START EF EDIT
+LittlerootTown_EventScript_DevGift::
+	lock
+	faceplayer
+	msgbox Text_DevGift, MSGBOX_DEFAULT
+	release
+	end
+
+Text_DevGift:
+  .string "Hey buddy! \p"
+  .string "...\p"
+  .string "... Look, I don't have \n" 
+  .string "anything yet.\p"
+  .string "But, check back soon!$"
+@ END EF EDIT
 
 LittlerootTown_OnTransition:
 	setflag FLAG_VISITED_LITTLEROOT_TOWN
