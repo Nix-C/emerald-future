@@ -9353,6 +9353,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/DeeprootVillage_DeeprootVillage_Layout/border.bin",
       "blockdata_filepath": "data/layouts/DeeprootVillage_DeeprootVillage_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_ANCIENT_LAKE_EXIT",
+      "name": "AncientLake_Exit_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/AncientLake_Exit_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/AncientLake_Exit_Layout/map.bin"
     }
   ]
 }
