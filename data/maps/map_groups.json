@@ -1165,7 +1165,8 @@
   ],
   "gMapGroup_EF_AncientLake": [
     "AncientLake_AncientLake",
-    "AncientLake_Entrance"
+    "AncientLake_Entrance",
+    "AncientLake_Exit"
   ],
   "gMapGroup_EF_DeeprootVillage": [
     "DeeprootVillage_DeeprootVillage"

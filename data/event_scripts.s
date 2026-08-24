@@ -1744,3 +1744,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/AncientLake_Entrance/scripts.inc"
 
 	.include "data/maps/DeeprootVillage_DeeprootVillage/scripts.inc"
+
+	.include "data/maps/AncientLake_Exit/scripts.inc"
