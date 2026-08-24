@@ -9393,6 +9393,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/Grove_Grove_Layout/border.bin",
       "blockdata_filepath": "data/layouts/Grove_Grove_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_MOUNTAIN_ASCENT_MOUNTAIN_ASCENT",
+      "name": "MountainAscent_MountainAscent_Layout",
+      "width": 60,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/MountainAscent_MountainAscent_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/MountainAscent_MountainAscent_Layout/map.bin"
     }
   ]
 }
