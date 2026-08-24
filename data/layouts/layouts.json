@@ -9343,6 +9343,16 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/AncientLake_Entrance_Layout/border.bin",
       "blockdata_filepath": "data/layouts/AncientLake_Entrance_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_DEEPROOT_VILLAGE_DEEPROOT_VILLAGE",
+      "name": "DeeprootVillage_DeeprootVillage_Layout",
+      "width": 60,
+      "height": 22,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/DeeprootVillage_DeeprootVillage_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/DeeprootVillage_DeeprootVillage_Layout/map.bin"
     }
   ]
 }

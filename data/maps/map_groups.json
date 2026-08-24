@@ -1167,5 +1167,7 @@
     "AncientLake_AncientLake",
     "AncientLake_Entrance"
   ],
-  "gMapGroup_EF_DeeprootVillage": []
+  "gMapGroup_EF_DeeprootVillage": [
+    "DeeprootVillage_DeeprootVillage"
+  ]
 }
