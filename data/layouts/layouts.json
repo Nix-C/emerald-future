@@ -9333,6 +9333,16 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/AncientLake_AncientLake_Layout/border.bin",
       "blockdata_filepath": "data/layouts/AncientLake_AncientLake_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_ANCIENT_LAKE_ENTRANCE",
+      "name": "AncientLake_Entrance_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/AncientLake_Entrance_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/AncientLake_Entrance_Layout/map.bin"
     }
   ]
 }
