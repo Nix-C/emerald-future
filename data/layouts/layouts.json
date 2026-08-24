@@ -9383,6 +9383,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/border.bin",
       "blockdata_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_GROVE_GROVE",
+      "name": "Grove_Grove_Layout",
+      "width": 40,
+      "height": 80,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/Grove_Grove_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/Grove_Grove_Layout/map.bin"
     }
   ]
 }
