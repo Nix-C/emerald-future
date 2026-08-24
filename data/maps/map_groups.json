@@ -79,7 +79,8 @@
     "gMapGroup_EF_DeeprootVillage",
     "gMapGroup_EF_SouthernForest",
     "gMapGroup_EF_Grove",
-    "gMapGroup_EF_MountainAscent"
+    "gMapGroup_EF_MountainAscent",
+    "gMapGroup_EF_RockCity"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1183,5 +1184,8 @@
   ],
   "gMapGroup_EF_MountainAscent": [
     "MountainAscent_MountainAscent"
+  ],
+  "gMapGroup_EF_RockCity": [
+    "RockCity_RockCity"
   ]
 }
