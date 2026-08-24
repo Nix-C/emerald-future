@@ -9373,6 +9373,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/DeeprootVillage_Farm_Layout/border.bin",
       "blockdata_filepath": "data/layouts/DeeprootVillage_Farm_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_SOUTHERN_FOREST_SOUTHERN_FOREST",
+      "name": "SouthernForest_SouthernForest_Layout",
+      "width": 60,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/map.bin"
     }
   ]
 }
