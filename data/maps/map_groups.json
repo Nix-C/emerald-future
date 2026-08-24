@@ -1162,5 +1162,7 @@
   "gMapGroup_IndoorSevenIslandRoute_Frlg": [
     "SevenIsland_SevaultCanyon_House_Frlg"
   ],
-  "gMapGroup_EF_AncientLake": []
+  "gMapGroup_EF_AncientLake": [
+    "AncientLake_AncientLake"
+  ]
 }
