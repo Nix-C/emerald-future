@@ -16,8 +16,8 @@
   "object_events": [],
   "warp_events": [
     {
-      "x": 44,
-      "y": 6,
+      "x": 53,
+      "y": 18,
       "elevation": 0,
       "dest_map": "MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F",
       "dest_warp_id": "0"
