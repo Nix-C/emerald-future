@@ -9370,7 +9370,7 @@
       "width": 60,
       "height": 38,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Cave",
+      "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/DeeprootVillage_DeeprootFarm_Layout/border.bin",
       "blockdata_filepath": "data/layouts/DeeprootVillage_DeeprootFarm_Layout/map.bin"
     }
