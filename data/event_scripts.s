@@ -1748,3 +1748,5 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/AncientLake_Exit/scripts.inc"
 
 	.include "data/maps/Grove_Grove/scripts.inc"
+
+	.include "data/maps/RockCity_RockCity/scripts.inc"
