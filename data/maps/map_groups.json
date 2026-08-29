@@ -1172,7 +1172,8 @@
     "AncientLake_Exit"
   ],
   "gMapGroup_EF_DeeprootVillage": [
-    "DeeprootVillage_DeeprootVillage"
+    "DeeprootVillage_DeeprootVillage",
+    "DeeprootVillage_DeeprootFarm"
   ],
   "gMapGroup_EF_Grove": [
     "Grove_Grove"
