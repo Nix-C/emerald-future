@@ -17,11 +17,6 @@
       "map": "MAP_DEEPROOT_VILLAGE_DEEPROOT_VILLAGE",
       "offset": 16,
       "direction": "up"
-    },
-    {
-      "map": "MAP_SOUTHERN_FOREST_SOUTHERN_FOREST",
-      "offset": 0,
-      "direction": "down"
     }
   ],
   "object_events": [],

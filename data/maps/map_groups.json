@@ -1178,9 +1178,7 @@
   "gMapGroup_EF_Grove": [
     "Grove_Grove"
   ],
-  "gMapGroup_EF_SouthernForest": [
-    "SouthernForest_SouthernForest"
-  ],
+  "gMapGroup_EF_SouthernForest": [],
   "gMapGroup_EF_MountainAscent": [
     "MountainAscent_MountainAscent"
   ]
