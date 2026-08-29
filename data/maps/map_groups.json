@@ -78,7 +78,6 @@
     "gMapGroup_EF_AncientLake",
     "gMapGroup_EF_DeeprootVillage",
     "gMapGroup_EF_Grove",
-    "gMapGroup_EF_RockCity",
     "gMapGroup_EF_SouthernForest",
     "gMapGroup_EF_MountainAscent"
   ],
@@ -1178,9 +1177,6 @@
   ],
   "gMapGroup_EF_Grove": [
     "Grove_Grove"
-  ],
-  "gMapGroup_EF_RockCity": [
-    "RockCity_RockCity"
   ],
   "gMapGroup_EF_SouthernForest": [
     "SouthernForest_SouthernForest"
