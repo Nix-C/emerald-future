@@ -76,7 +76,8 @@
     "gMapGroup_IndoorSixIslandRoute_Frlg",
     "gMapGroup_IndoorSevenIslandRoute_Frlg",
     "gMapGroup_EF_AncientLake",
-    "gMapGroup_EF_DeeprootVillage"
+    "gMapGroup_EF_DeeprootVillage",
+    "gMapGroup_EF_Grove"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1170,5 +1171,8 @@
   ],
   "gMapGroup_EF_DeeprootVillage": [
     "DeeprootVillage_DeeprootVillage"
+  ],
+  "gMapGroup_EF_Grove": [
+    "Grove_Grove"
   ]
 }
