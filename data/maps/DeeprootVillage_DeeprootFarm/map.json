@@ -12,7 +12,18 @@
   "allow_running": false,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": null,
+  "connections": [
+    {
+      "map": "MAP_DEEPROOT_VILLAGE_DEEPROOT_VILLAGE",
+      "offset": 16,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_SOUTHERN_FOREST_SOUTHERN_FOREST",
+      "offset": 0,
+      "direction": "down"
+    }
+  ],
   "object_events": [],
   "warp_events": [],
   "coord_events": [],
