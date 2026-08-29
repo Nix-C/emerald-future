@@ -9393,6 +9393,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/MountainAscent_MountainAscent_Layout/border.bin",
       "blockdata_filepath": "data/layouts/MountainAscent_MountainAscent_Layout/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_CITY_ROCK_CITY",
+      "name": "RockCity_RockCity_Layout",
+      "width": 60,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/RockCity_RockCity_Layout/border.bin",
+      "blockdata_filepath": "data/layouts/RockCity_RockCity_Layout/map.bin"
     }
   ]
 }
