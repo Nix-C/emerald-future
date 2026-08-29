@@ -9383,36 +9383,6 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/Grove_Grove_Layout/border.bin",
       "blockdata_filepath": "data/layouts/Grove_Grove_Layout/map.bin"
-    },
-    {
-      "id": "LAYOUT_MOUNTAIN_ASCENT_MOUNTAIN_ASCENT",
-      "name": "MountainAscent_MountainAscent",
-      "width": 60,
-      "height": 40,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Fortree",
-      "border_filepath": "data/layouts/MountainAscent_MountainAscent/border.bin",
-      "blockdata_filepath": "data/layouts/MountainAscent_MountainAscent/map.bin"
-    },
-    {
-      "id": "LAYOUT_ROCK_CITY_ROCK_CITY",
-      "name": "RockCity_RockCity_Layout",
-      "width": 60,
-      "height": 60,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Cave",
-      "border_filepath": "data/layouts/RockCity_RockCity_Layout/border.bin",
-      "blockdata_filepath": "data/layouts/RockCity_RockCity_Layout/map.bin"
-    },
-    {
-      "id": "LAYOUT_SOUTHERN_FOREST_SOUTHERN_FOREST",
-      "name": "SouthernForest_SouthernForest_Layout",
-      "width": 60,
-      "height": 60,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Fortree",
-      "border_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/border.bin",
-      "blockdata_filepath": "data/layouts/SouthernForest_SouthernForest_Layout/map.bin"
     }
   ]
 }
