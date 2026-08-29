@@ -1,0 +1,46 @@
+{
+  "id": "MAP_DEEPROOT_VILLAGE_DEEPROOT_VILLAGE",
+  "name": "DeeprootVillage_DeeprootVillage",
+  "layout": "LAYOUT_DEEPROOT_VILLAGE_DEEPROOT_VILLAGE",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_ABANDONED_SHIP",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_NONE",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": false,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_GROVE_GROVE",
+      "offset": -2,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_DEEPROOT_VILLAGE_DEEPROOT_FARM",
+      "offset": -16,
+      "direction": "down"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 53,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 44,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_LITTLEROOT_TOWN_MAYS_HOUSE_1F",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

@@ -1747,12 +1747,10 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/AncientLake_Exit/scripts.inc"
 
-	.include "data/maps/DeeprootVillage_Farm/scripts.inc"
-
-	.include "data/maps/SouthernForest_SouthernForest/scripts.inc"
-
 	.include "data/maps/Grove_Grove/scripts.inc"
+
+	.include "data/maps/DeeprootVillage_DeeprootFarm/scripts.inc"
 
 	.include "data/maps/MountainAscent_MountainAscent/scripts.inc"
 
-	.include "data/maps/RockCity_RockCity/scripts.inc"
+	.include "data/maps/SouthernForest_SouthernForest/scripts.inc"
