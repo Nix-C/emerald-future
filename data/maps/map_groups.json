@@ -74,7 +74,12 @@
     "gMapGroup_IndoorFiveIslandRoute_Frlg",
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
-    "gMapGroup_IndoorSevenIslandRoute_Frlg"
+    "gMapGroup_IndoorSevenIslandRoute_Frlg",
+    "gMapGroup_EF_AncientLake",
+    "gMapGroup_EF_DeeprootVillage",
+    "gMapGroup_EF_Grove",
+    "gMapGroup_EF_SouthernForest",
+    "gMapGroup_EF_MountainAscent"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1160,5 +1165,23 @@
   ],
   "gMapGroup_IndoorSevenIslandRoute_Frlg": [
     "SevenIsland_SevaultCanyon_House_Frlg"
+  ],
+  "gMapGroup_EF_AncientLake": [
+    "AncientLake_AncientLake",
+    "AncientLake_Entrance",
+    "AncientLake_Exit"
+  ],
+  "gMapGroup_EF_DeeprootVillage": [
+    "DeeprootVillage_DeeprootVillage",
+    "DeeprootVillage_DeeprootFarm"
+  ],
+  "gMapGroup_EF_Grove": [
+    "Grove_Grove"
+  ],
+  "gMapGroup_EF_SouthernForest": [
+    "SouthernForest_SouthernForest"
+  ],
+  "gMapGroup_EF_MountainAscent": [
+    "MountainAscent_MountainAscent"
   ]
 }

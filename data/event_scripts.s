@@ -1738,3 +1738,19 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/battle_frontier.inc"
 	.include "data/scripts/apricorn_tree.inc"
 	.include "data/scripts/wild_encounter.inc"
+
+	.include "data/maps/AncientLake_AncientLake/scripts.inc"
+
+	.include "data/maps/AncientLake_Entrance/scripts.inc"
+
+	.include "data/maps/DeeprootVillage_DeeprootVillage/scripts.inc"
+
+	.include "data/maps/AncientLake_Exit/scripts.inc"
+
+	.include "data/maps/Grove_Grove/scripts.inc"
+
+	.include "data/maps/DeeprootVillage_DeeprootFarm/scripts.inc"
+
+	.include "data/maps/MountainAscent_MountainAscent/scripts.inc"
+
+	.include "data/maps/SouthernForest_SouthernForest/scripts.inc"
